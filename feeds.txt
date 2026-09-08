@@ -1,0 +1,11 @@
+# One RSS feed URL per line. Lines starting with # are ignored.
+# These are well-known gaming media feeds — TEST EACH ONE before relying on it
+# (see README "Verifying a feed URL"), since sites occasionally change their paths.
+
+https://www.eurogamer.net/feed
+https://www.rockpapershotgun.com/feed
+https://kotaku.com/rss
+https://www.gameinformer.com/rss.xml
+https://www.polygon.com/rss/index.xml
+https://www.pcgamer.com/rss/
+https://www.gamespot.com/feeds/mashup/
