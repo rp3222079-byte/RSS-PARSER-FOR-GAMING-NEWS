@@ -25,8 +25,8 @@ import requests
 FEEDS_FILE = Path("feeds.txt")
 STATE_FILE = Path("state.json")
 
-BOT_TOKEN = os.environ.get("8805890853:AAGXUzfNVPTHlEjNzID3ShVlE58fABkXVno")
-CHAT_ID = os.environ.get("@IgroVestnikRU")
+BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
+CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID")
 
 MAX_SEEN_PER_FEED = 200      # how many old entry ids to remember per feed
 MAX_NEW_POSTS_PER_FEED = 8   # safety cap per run, in case a feed dumps a lot at once
