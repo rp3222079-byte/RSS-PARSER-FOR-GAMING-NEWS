@@ -2,10 +2,10 @@
 # These are well-known gaming media feeds — TEST EACH ONE before relying on it
 # (see README "Verifying a feed URL"), since sites occasionally change their paths.
 
-https://www.eurogamer.net/feed
-https://www.rockpapershotgun.com/feed
-https://kotaku.com/rss
-https://www.gameinformer.com/rss.xml
-https://www.polygon.com/rss/index.xml
-https://www.pcgamer.com/rss/
-https://www.gamespot.com/feeds/mashup/
+https://rss.stopgame.ru/rss_news.xml
+https://dtf.ru/rss/
+http://www.playground.ru/rss/news.xml
+http://www.playground.ru/rss/articles.xml
+https://www.igromania.ru/rss/news-game.rss
+https://app2top.ru/rss
+https://feeds.feedburner.com/ign/all
